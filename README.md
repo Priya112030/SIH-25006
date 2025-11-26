@@ -81,17 +81,17 @@ Offline mode, icon/video-based UI, auto-validation of inputs, ruggedized sensors
 Enhances farmer awareness, reduces disease outbreaks, improves farm productivity, and strengthens national biosecurity preparedness.
 
 ### 2. Benefits 
-Social: Better hygiene & safer livestock.
-Economic: Lower losses, higher income.
-Environmental: Improved sanitation & waste management.
+* Social: Better hygiene & safer livestock.
+* Economic: Lower losses, higher income.
+* Environmental: Improved sanitation & waste management.
 
 ## Research and References
-### 1. Reference 
-DAHD Biosecurity Guidelines (Govt of India)
-FAO & OIE biosecurity manuals
+###  Reference 
+1. DAHD Biosecurity Guidelines (Govt of India)
+2. FAO & OIE biosecurity manuals
 NADRS+ disease surveillance data
-Research papers on AI-based livestock disease prediction
-IoT sensor documentation (ESP32, DHT22)
+3. Research papers on AI-based livestock disease prediction
+4. IoT sensor documentation (ESP32, DHT22)
 
 ## Flowchart
 ![alt text](image.png)
