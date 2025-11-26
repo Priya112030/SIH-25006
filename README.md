@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 26.11.25
+## Referece Number: 212224230208
+## Name: PRIYA B
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -41,27 +41,57 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+### 1. Proposed solution
+A digital Farm Biosecurity Management Portal that provides AI-based risk assessment, multilingual biosecurity training, digital compliance tracking, and real-time disease alerts for pig and poultry farms.
+
+### 2. Addresses the problem
+It improves farmer awareness, gives farm-specific risk scores, provides customized biosecurity protocols, keeps digital records for audits, and alerts farmers about nearby outbreaks—solving the lack of guidance, monitoring, and preparedness.
+
+### 3. Innovation and uniqueness 
+First integrated platform combining AI + IoT + compliance tracking; offers offline access, regional languages, farm-specific SOP generation, and data dashboards for authorities.
+
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+### 1. Technologies used
+Frontend (React/PWA), Backend (Node.js/Python), Database (PostgreSQL/MongoDB), ML models (scikit-learn/TensorFlow), optional IoT sensors (ESP32, DHT22).
+
+### 2. Methodology 
+Requirement study → System design → ML model creation → Web/app development → IoT integration → Testing → Deployment.
+
+#### Flow (Short):
+Farmer inputs → AI risk score → Compliance logs → Alerts & guidance → Dashboard → Govt analytics.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+### 1. Feasibility 
+Technically doable with existing ML, GIS, and web technologies; operationally feasible due to simple UI and multilingual support.
+
+### 2. Challenges 
+Low digital literacy, poor internet, inaccurate inputs, IoT reliability.
+
+### 3. Strategies 
+Offline mode, icon/video-based UI, auto-validation of inputs, ruggedized sensors with alerts.
+
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+### 1. Impact 
+Enhances farmer awareness, reduces disease outbreaks, improves farm productivity, and strengthens national biosecurity preparedness.
+
+### 2. Benefits 
+Social: Better hygiene & safer livestock.
+Economic: Lower losses, higher income.
+Environmental: Improved sanitation & waste management.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+### 1. Reference 
+DAHD Biosecurity Guidelines (Govt of India)
+FAO & OIE biosecurity manuals
+NADRS+ disease surveillance data
+Research papers on AI-based livestock disease prediction
+IoT sensor documentation (ESP32, DHT22)
+
+## Flowchart
+![alt text](image.png)
